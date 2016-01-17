@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio Projects\WordPress Export File Improver\WordPress Export File Improver\bin\Debug\WordPress Export File Improver.exe.config
+D:\Documents\Visual Studio Projects\WordPress Export File Improver\WordPress Export File Improver\bin\Debug\WordPress Export File Improver.exe
+D:\Documents\Visual Studio Projects\WordPress Export File Improver\WordPress Export File Improver\bin\Debug\WordPress Export File Improver.pdb
+D:\Documents\Visual Studio Projects\WordPress Export File Improver\WordPress Export File Improver\obj\Debug\WordPress Export File Improver.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio Projects\WordPress Export File Improver\WordPress Export File Improver\obj\Debug\WordPress_Duplicate_Resolver.AboutBox.resources
+D:\Documents\Visual Studio Projects\WordPress Export File Improver\WordPress Export File Improver\obj\Debug\WordPress_Duplicate_Resolver.HelpForm.resources
+D:\Documents\Visual Studio Projects\WordPress Export File Improver\WordPress Export File Improver\obj\Debug\WordPress_Duplicate_Resolver.MainForm.resources
+D:\Documents\Visual Studio Projects\WordPress Export File Improver\WordPress Export File Improver\obj\Debug\WordPress_Export_File_Improver.Properties.Resources.resources
+D:\Documents\Visual Studio Projects\WordPress Export File Improver\WordPress Export File Improver\obj\Debug\WordPress Export File Improver.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio Projects\WordPress Export File Improver\WordPress Export File Improver\obj\Debug\WordPress Export File Improver.exe
+D:\Documents\Visual Studio Projects\WordPress Export File Improver\WordPress Export File Improver\obj\Debug\WordPress Export File Improver.pdb
